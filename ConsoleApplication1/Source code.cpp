@@ -75,6 +75,6 @@ int main(int argc, char* argv[]){
 		printf("Error 0:There are not enough arguments"); // недостаточно аргументов для исполнения действий
 	}
 	getchar();
-
+	//end
 	return 0;
 }
